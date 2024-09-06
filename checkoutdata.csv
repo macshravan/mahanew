@@ -1,0 +1,3 @@
+Time,Category,Item,Quantity,Cost,email_id,name,status,checkin,checkout
+06-09-2024 07:10,beverages,Tea,3,3,abc@gmail.com,shravan,Checkedin,15:44.1,16:58.5
+10-08-2024 19:01,rooms,deluxe,1,55,abc@gmail.com,shravan,Checkedin,2024-09-06 07:19:11.603304,2024-09-06 07:19:16.912565
