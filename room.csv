@@ -1,0 +1,5 @@
+RoomID,ImagePath,Name,Cost,Stock,members
+1,family.jpeg,family,6000,0,4
+2,suite.jpeg,suite,4500,0,3
+3,deluxe.jpeg,deluxe,4000,0,2
+4,nonac.jpeg,Beach view,4500,1,1

@@ -1,0 +1,3 @@
+Time,Category,Item,Quantity,Cost,email_id,name,status,checkin,checkout
+12-09-2024 23:12,rooms,family,1,6000,def@gmail.com,maha,booked,,
+2024-09-12 23:13:46,rooms,family,1,6000,def@gmail.com,maha,Checkedin,2024-09-12 23:14:12.760112,2024-09-12 23:14:17.481096
